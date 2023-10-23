@@ -1,7 +1,11 @@
-<h1 align="center">Heyy 👋, Bienvenue à toi ! Je suis Théotime</h1>
-<h3 align="center">Je suis passionné par le Développement WEB</h3>
+<img align="right" src="https://komarev.com/ghpvc/?username=pagiestm&label=Profile%20views&color=0e75b6&style=flat" alt="pagiestm">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pagiestm&label=Profile%20views&color=0e75b6&style=flat" alt="pagiestm" /> </p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Heyy,+ça va ?+👋;Je+suis+Théotime+Pagies....;Bienvenue+à+toi!&center=true&size=30">
+  </a>
+</h1>
+<h3 align="center">Je suis passionné par le Développement WEB</h3>
 
 - 🔭 Je travaille sur différents projets : [ALL4SPORT, BOOTWARE, RPG_2D...](https://github.com/Pagiestm?tab=repositories)
 
