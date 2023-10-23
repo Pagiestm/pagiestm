@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=pagiestm&label=Profile%20views&color=0e75b6&style=flat" alt="pagiestm">
+<img align="right" src="https://komarev.com/ghpvc/?username=Pagiestm&label=Profile%20views&color=0e75b6&style=flat" alt="pagiestm">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
