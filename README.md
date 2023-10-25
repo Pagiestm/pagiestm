@@ -5,7 +5,7 @@
 </h1>
 <h3 align="center">Je suis passionné par le Développement WEB</h3>
 
-- 🔭 Je travaille sur différents projets : [ALL4SPORT, BOOTWARE, RPG_2D, CineSearchProo...](https://github.com/Pagiestm?tab=repositories)
+- 🔭 Je travaille sur différents projets : [ALL4SPORT, BOOTWARE, RPG_2D, CineSearchPro...](https://github.com/Pagiestm?tab=repositories)
 
 - 🌱 J'adore apprendre et monter en compétence **Symfony, WORDPRESS, SCSS, PHP, HTML, CSS? NODE.JS ...**
 
