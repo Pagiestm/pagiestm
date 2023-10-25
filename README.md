@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut,+à toi!+👋;Je+suis+Théotime+Pagies;Bienvenue+à+toi+👋!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut,+toi!+👋;Je+suis+Théotime+Pagies;Bienvenue+à+toi+👋!&center=true&size=30">
   </a>
 </h1>
 <h3 align="center">Je suis passionné par le Développement WEB</h3>
