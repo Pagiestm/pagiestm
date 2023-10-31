@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=B31BF7&vCenter=true&random=false&width=435&lines=Bienvenue+%C3%A0+toi+%F0%9F%98%81+!;Je+me+pr%C3%A9sente+%F0%9F%AB%A3;Je+m'appelle+Th%C3%A9otime+;Et+je+suis+apprenti+d%C3%A9veloppeur+WEB+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&pause=1000&color=B31BF7&center=true&vCenter=true&random=false&width=435&lines=Bienvenue+%C3%A0+toi+%F0%9F%98%81+!;Je+me+pr%C3%A9sente+%F0%9F%AB%A3;Je+m'appelle+Th%C3%A9otime+;Et+je+suis+apprenti+d%C3%A9veloppeur+WEB+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">Je suis passionné par le Développement WEB</h3>
 
