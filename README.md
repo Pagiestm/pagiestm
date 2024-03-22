@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&desc=Web%20Developer%20at%20MyDigitalSchool%20and%20Agence%20Yoozly&section=header&text=Théotime%20Pagies&fontSize=80&animation=fadeIn&fontAlignY=38)
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=pagiestm&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
-</div>
+[<div align="center">![](https://visitcount.itsvg.in/api?id=pagiestm&label=Profile%20Views&color=0&icon=0&pretty=true)</div>](https://visitcount.itsvg.in)
 
 <!-- Groupe de GIF centrés sur la même ligne -->
 <p align="center">
