@@ -34,10 +34,10 @@
 <div>
     <div>
         <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-            <img align="left" width=360 src="https://github-readme-stats.vercel.app/api username=pagiestm&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="zumrudu-anka" />
+            <img align="left" width=360 src="https://github-readme-stats.vercel.app/api?username=pagiestm&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="zumrudu-anka" />
         </a>
         <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-            <img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=pagiestm&theme=radical&hide_border=false" />
+            <img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=LucasMadranges&theme=radical&hide_border=false" />
         </a>
     </div>
     <br><br><br><br><br><br><br><br>
