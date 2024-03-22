@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&desc=Web%20Developer%20at%20MyDigitalSchool%20and%20Agence%20Yoozly&section=header&text=Théotime%20Pagies&fontSize=80&animation=fadeIn&fontAlignY=38)
 [![](https://visitcount.itsvg.in/api?id=pagiestm&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-<!-- Description -->
-<h3 align="center">Je suis passionné par le Développement WEB</h3>
-
-<!-- GIF de développeur -->
-<p align="center">
+<!-- GIF de développeur à gauche -->
+<p align="left">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="GIF de développeur" width="300">
+</p>
+<!-- GIF de développeur à droite -->
+<p align="right">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="GIF de développeur" width="300">
 </p>
 
