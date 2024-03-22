@@ -6,7 +6,7 @@
   <!-- Premier GIF -->
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="GIF de développeur 1" width="300">
   <!-- Deuxième GIF -->
-  <img src="https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif" alt="GIF de développeur 2" width="300">
+<img src="https://media.giphy.com/media/12R9O6R2ol3yL2/giphy.gif" alt="GIF de développeur 2" width="300">
 </p>
 
 - 🔭 Je travaille sur différents projets : [Blissfulhaven, Click N' Party, ALL4SPORT, BOOTWARE, RPG_2D, CineSearchPro...](https://github.com/Pagiestm?tab=repositories)
