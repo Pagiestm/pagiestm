@@ -1,13 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&desc=Web%20Developer%20at%20MyDigitalSchool%20and%20Agence%20Yoozly&section=header&text=Théotime%20Pagies&fontSize=80&animation=fadeIn&fontAlignY=38)
 [![](https://visitcount.itsvg.in/api?id=pagiestm&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-<!-- GIF de développeur à gauche -->
-<p align="left">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="GIF de développeur" width="300">
-</p>
-<!-- GIF de développeur à droite -->
-<p align="right">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="GIF de développeur" width="300">
+<!-- Groupe de GIF centrés sur la même ligne -->
+<p align="center">
+  <!-- Premier GIF -->
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="GIF de développeur 1" width="300">
+  <!-- Deuxième GIF -->
+  <img src="https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif" alt="GIF de développeur 2" width="300">
 </p>
 
 - 🔭 Je travaille sur différents projets : [Blissfulhaven, Click N' Party, ALL4SPORT, BOOTWARE, RPG_2D, CineSearchPro...](https://github.com/Pagiestm?tab=repositories)
