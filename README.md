@@ -1,7 +1,5 @@
-<!-- Effet sur le titre -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B31BF7&center=true&vCenter=true&random=false&width=503&lines=Bienvenue+%C3%A0+toi+%F0%9F%98%81+!;Je+me+pr%C3%A9sente+%F0%9F%AB%A3;Je+m'appelle+Th%C3%A9otime+;Et+je+suis+apprenti+d%C3%A9veloppeur+WEB+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
-</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&desc=Web%20Developer%20at%20MyDigitalSchool%20and%20Agence%20Yoozly&section=header&text=Théotime%20Pagies&fontSize=80&animation=fadeIn&fontAlignY=38)
+[![](https://visitcount.itsvg.in/api?id=pagiestm&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Description -->
 <h3 align="center">Je suis passionné par le Développement WEB</h3>
