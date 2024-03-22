@@ -9,15 +9,13 @@
 <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" alt="GIF de développeur 2" width="300">
 </p>
 
-- 🔭 Je travaille sur différents projets : [Blissfulhaven, Click N' Party, ALL4SPORT, BOOTWARE, RPG_2D, CineSearchPro...](https://github.com/Pagiestm?tab=repositories)
-
-- 🌱 J'adore apprendre et monter en compétence **Symfony, WORDPRESS, SCSS, PHP, HTML, CSS, NODE.JS ...**
-
-- 👨‍💻 N'hésitez pas à regarder mon Portfolio : [http://theotimepagies.epizy.com/](http://theotimepagies.epizy.com/)
-
-- 📫 Comment me joindre : **pagiestm@gmail.com**
-
-- ⚡ Mes loisirs : **Sport, Jeux vidéos, Tennis de table, lire, Animateur BAFA, Formateur BAFA et Forcément le Développement !**
+<ul align="center">
+  <li>🔭 Je travaille sur différents projets : <a href="https://github.com/Pagiestm?tab=repositories">Blissfulhaven, Click N' Party, ALL4SPORT, BOOTWARE, RPG_2D, CineSearchPro...</a></li>
+  <li>🌱 J'adore apprendre et monter en compétence <strong>Symfony, WORDPRESS, SCSS, PHP, HTML, CSS, NODE.JS ...</strong></li>
+  <li>👨‍💻 N'hésitez pas à regarder mon Portfolio : <a href="http://theotimepagies.epizy.com/">http://theotimepagies.epizy.com/</a></li>
+  <li>📫 Comment me joindre : <strong>pagiestm@gmail.com</strong></li>
+  <li>⚡ Mes loisirs : <strong>Sport, Jeux vidéos, Tennis de table, lire, Animateur BAFA, Formateur BAFA et Forcément le Développement !</strong></li>
+</ul>
 
 <h3 align="center">Rejoignez-moi :</h3>
 <p align="center">
