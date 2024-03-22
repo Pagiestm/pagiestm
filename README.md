@@ -21,8 +21,8 @@
 
 - ⚡ Mes loisirs : **Sport, Jeux vidéos, Tennis de table, lire, Animateur BAFA, Formateur BAFA et Forcément le Développement !**
 
-<h3 align="left">Rejoignez-moi :</h3>
-<p align="left">
+<h3 align="center">Rejoignez-moi :</h3>
+<p align="center">
 <a href="https://linkedin.com/in/théotime pagies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="théotime pagies" height="30" width="40" /></a>
 </p>
 
@@ -40,3 +40,4 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pagiestm&theme=dracula&margin-w=15&margin-h=15&column=7" alt="Trophées GitHub" />
 </p>
+
