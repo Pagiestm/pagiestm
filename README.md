@@ -14,7 +14,7 @@
   🔭 Je travaille sur différents projets : <a href="https://github.com/Pagiestm?tab=repositories">Blissfulhaven, Click N' Party, ALL4SPORT, BOOTWARE, RPG_2D, CineSearchPro...</a>
 </div>
 <div align="left">
-  🌱 J'adore apprendre et monter en compétence <strong>Symfony, WORDPRESS, SCSS, PHP, HTML, CSS, NODE.JS ...</strong>
+  🌱 J'adore apprendre et monter en compétence <strong>Symfony, Vue.JS, React, SCSS, PHP, HTML, CSS, NODE.JS ...</strong>
 </div>
 <div align="left">
   👨‍💻 N'hésitez pas à regarder mon Portfolio : <a href="http://theotimepagies.epizy.com/">http://theotimepagies.epizy.com/</a>
