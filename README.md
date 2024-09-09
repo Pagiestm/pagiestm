@@ -11,7 +11,7 @@
 
 <!-- Éléments centrés -->
 <div align="left">
-  🔭 Je travaille sur différents projets : <a href="https://github.com/Pagiestm?tab=repositories">Blissfulhaven, Click N' Party, ALL4SPORT, BOOTWARE, RPG_2D, CineSearchPro...</a>
+  🔭 Je travaille sur différents projets : <a href="https://github.com/Pagiestm?tab=repositories">Carbontrack, Click N' Party, Blissfulhaven, Illévia Simulator, RPG_2D, CineSearchPro...</a>
 </div>
 <div align="left">
   🌱 J'adore apprendre et monter en compétence <strong>Symfony, Vue.JS, React, SCSS, PHP, HTML, CSS, NODE.JS ...</strong>
