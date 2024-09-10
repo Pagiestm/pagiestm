@@ -17,7 +17,7 @@
   🌱 J'adore apprendre et monter en compétence <strong>Symfony, Vue.JS, React, SCSS, PHP, HTML, CSS, NODE.JS ...</strong>
 </div>
 <div align="left">
-  👨‍💻 N'hésitez pas à regarder mon Portfolio : <a href="https://portfolio-theotime-pagies.vercel.app">Mon portfolio</a>
+  👨‍💻 N'hésitez pas à regarder <a href="https://portfolio-theotime-pagies.vercel.app">mon portfolio</a>
 </div>
 <div align="left">
   📫 Comment me joindre : <strong>pagiestm@gmail.com</strong>
