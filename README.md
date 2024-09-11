@@ -23,7 +23,7 @@
   📫 Comment me joindre : <strong>pagiestm@gmail.com</strong>
 </div>
 <div align="left">
-  ⚡ Mes loisirs : <strong>Sport, Jeux vidéos, Tennis de table, lire, Animateur BAFA, Formateur BAFA et Forcément le Développement !</strong>
+  ⚡ Mes loisirs : <strong>Sport, Jeux vidéos, Tennis de table, lire, Animateur BAFA et Forcément le Développement !</strong>
 </div>
 
 <div align="center">
