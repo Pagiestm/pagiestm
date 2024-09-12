@@ -14,7 +14,7 @@
   🔭 Je travaille sur différents projets : <a href="https://github.com/Pagiestm?tab=repositories">Carbontrack, Click N' Party, Blissfulhaven, Illévia Simulator, RPG_2D, CineSearchPro...</a>
 </div>
 <div align="left">
-  🌱 J'adore apprendre et monter en compétence <strong>Symfony, Vue.JS, React, SCSS, PHP, HTML, CSS, NODE.JS ...</strong>
+  🌱 J'adore apprendre et monter en compétence <strong>Symfony, Vue.JS, React, SCSS, PHP, Nest.JS, NODE.JS, Express...</strong>
 </div>
 <div align="left">
   👨‍💻 N'hésitez pas à regarder <a href="https://portfolio-theotime-pagies.vercel.app">mon portfolio</a>
