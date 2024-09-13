@@ -8,7 +8,7 @@
   <!-- Deuxième GIF -->
 <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" alt="GIF de développeur 2" width="300">
 </p>
-
+ 
 <!-- Éléments centrés -->
 <div align="left">
   🔭 Je travaille sur différents projets : <a href="https://github.com/Pagiestm?tab=repositories">Carbontrack, Click N' Party, Blissfulhaven, Illévia Simulator, RPG_2D, CineSearchPro...</a>
