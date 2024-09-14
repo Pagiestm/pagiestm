@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&desc=Web%20Developer%20at%20MyDigitalSchool%20and%20AILOOP&section=header&text=Théotime%20Pagies&fontSize=80&animation=fadeIn&fontAlignY=38)
 [<div align="center">![](https://visitcount.itsvg.in/api?id=pagiestm&label=Profile%20Views&color=0&icon=0&pretty=true)</div>](https://visitcount.itsvg.in)
-
+ 
 <!-- Groupe de GIF centrés sur la même ligne -->
 <p align="center">
   <!-- Premier GIF -->
@@ -9,6 +9,7 @@
 <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" alt="GIF de développeur 2" width="300">
 </p>
  
+
 <!-- Éléments centrés -->
 <div align="left">
   🔭 Je travaille sur différents projets : <a href="https://github.com/Pagiestm?tab=repositories">Carbontrack, Click N' Party, Blissfulhaven, Illévia Simulator, RPG_2D, CineSearchPro...</a>
