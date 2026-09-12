@@ -27,6 +27,13 @@ Mes réalisations en détail, avec le contexte et les décisions techniques : **
 Ce sur quoi j'ai codé ces 7 derniers jours :
 
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
