@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:010001,100:5C7FAE&text=Th%C3%A9otime%20Pagies&fontSize=48&fontColor=FEFEFF&fontAlignY=34&desc=D%C3%A9veloppeur%20web%20full-stack%20%C2%B7%20Lille%2C%20France&descAlignY=54&descSize=18&animation=fadeIn" width="100%" alt="Théotime Pagies — Développeur web full-stack" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:010001,100:5C7FAE&text=Th%C3%A9otime%20Pagies&fontSize=48&fontColor=FEFEFF&fontAlignY=34&desc=D%C3%A9veloppeur%20web%20full-stack%20%C2%B7%20Valenciennes%2C%20France&descAlignY=54&descSize=18&animation=fadeIn" width="100%" alt="Théotime Pagies — Développeur web full-stack" />
 
 <p align="center">
   <a href="https://portfolio-theotime-pagies.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-5C7FAE?style=for-the-badge&logo=vercel&logoColor=fff" alt="Portfolio" /></a>
