@@ -29,9 +29,14 @@ Ce sur quoi j'ai codé ces 7 derniers jours :
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 0 secs
+Total Time: 4 hrs 19 mins
 
-No activity tracked
+Markdown     1 hr 10 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.25 %
+Text         1 hr 7 mins           ██████▒░░░░░░░░░░░░░░░░░░   25.19 %
+TypeScript   1 hr 5 mins           ██████░░░░░░░░░░░░░░░░░░░   24.49 %
+JSON         29 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+HTML         21 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
+Other        7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
 
 <!--END_SECTION:waka-->
