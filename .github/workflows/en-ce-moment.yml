@@ -1,16 +1,7 @@
-# Réécrit le bloc entre <!--START_SECTION:now--> et <!--END_SECTION:now--> à
-# partir du portfolio Sanity : poste actuel et trois dernières réalisations.
-#
-# Aucun secret : le dataset est public en lecture. Mettre à jour son contenu
-# dans le Studio suffit à mettre ce profil à jour.
-
 name: Actualiser « En ce moment »
 
 on:
   schedule:
-    # Une demi-heure après les statistiques WakaTime : les deux workflows
-    # commitent sur la même branche, les faire tourner ensemble reviendrait à
-    # provoquer le conflit qu'on cherche à éviter.
     - cron: "30 5 * * *"
   workflow_dispatch:
 
@@ -40,6 +31,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
           git commit -m "chore: mise a jour de la section en ce moment"
-          # L'autre workflow a pu pousser entre-temps.
           git pull --rebase --autostash
           git push

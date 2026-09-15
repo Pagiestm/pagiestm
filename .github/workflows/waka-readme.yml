@@ -1,18 +1,9 @@
-# À placer dans le dépôt Pagiestm sous : .github/workflows/waka-readme.yml
-#
-# Ce workflow réécrit tout seul le bloc entre <!--START_SECTION:waka--> et
-# <!--END_SECTION:waka--> dans le README, avec le temps passé par langage
-# sur les 7 derniers jours (données WakaTime), puis commit le changement.
-#
-# Prérequis : un compte WakaTime + son plugin installé dans ton éditeur,
-# et la clé d'API ajoutée en secret du dépôt sous le nom WAKATIME_API_KEY.
-
 name: Statistiques WakaTime
 
 on:
   schedule:
-    - cron: "0 5 * * *"   # tous les jours à 5h UTC (7h à Paris en été)
-  workflow_dispatch:       # bouton "Run workflow" dans l'onglet Actions
+    - cron: "0 5 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -27,7 +18,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_TITLE: "false"        # pas de titre généré, le README a déjà le sien
+          SHOW_TITLE: "false"
           TIME_RANGE: last_7_days
           LANG_COUNT: "6"
           SHOW_TIME: "true"
