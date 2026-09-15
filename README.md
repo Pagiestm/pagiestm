@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:010001,100:5C7FAE&text=Th%C3%A9otime%20Pagies&fontSize=48&fontColor=FEFEFF&fontAlignY=34&desc=D%C3%A9veloppeur%20full-stack%20%C2%B7%20IA%20%26%20automatisation%20%C2%B7%20Valenciennes&descAlignY=54&descSize=18&animation=fadeIn" width="100%" alt="Théotime Pagies — Développeur full-stack, IA et automatisation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:010001,100:5C7FAE&text=Th%C3%A9otime%20Pagies&fontSize=48&fontColor=FEFEFF&fontAlignY=34&desc=D%C3%A9veloppeur%20web%20full-stack%20%C2%B7%20Valenciennes%2C%20France&descAlignY=54&descSize=18&animation=fadeIn" width="100%" alt="Théotime Pagies — Développeur web full-stack" />
 
 <p align="center">
   <a href="https://portfolio-theotime-pagies.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-5C7FAE?style=for-the-badge&logo=vercel&logoColor=fff" alt="Portfolio" /></a>
@@ -11,7 +11,9 @@
   <img src="https://img.shields.io/badge/Bas%C3%A9%20%C3%A0-Valenciennes%2C%20France-C3CEDE?style=flat-square&labelColor=0C1119" alt="Basé à Valenciennes" />
 </p>
 
-Développeur full-stack, orienté IA et automatisation, à Valenciennes. En alternance chez **[Ailoop](https://www.ailoop.io/)**, où je construis des outils d'analyse de cycle de vie et de déclaration environnementale — ACV, FDES, EPD, DPP — du cadrage à la mise en production. En parallèle, MBA Développeur Full Stack (niveau 7) à MyDigitalSchool Lille.
+Développeur full-stack à Valenciennes, orienté IA et automatisation. Depuis août 2026 en CDI chez **Ponera**, où je construis les outils internes de la logistique : applications web du back au front, intégrations d'API et de systèmes internes, automatisation de ce qui n'a pas besoin d'une personne.
+
+Avant cela, deux ans d'alternance chez **[Ailoop](https://www.ailoop.io/)** : six configurateurs FDES livrés à des industriels, conformes RE2020, et un socle technique commun en Vue.js, NestJS et Docker. MBA Manager de projet web digital (RNCP niveau 7) obtenu en 2026 à MyDigitalSchool Lille.
 
 Mes réalisations en détail, avec le contexte et les décisions techniques : **[portfolio-theotime-pagies.vercel.app](https://portfolio-theotime-pagies.vercel.app/)**
 
@@ -19,7 +21,7 @@ Mes réalisations en détail, avec le contexte et les décisions techniques : **
 
 ## En ce moment
 
-- **Ailoop** — développement front et back des outils métier, avec les personnes qui s'en servent tous les jours.
+- **Ponera** — outils internes de la logistique : applications web, intégrations d'API, et automatisation des tâches répétitives.
 - **[Mon portfolio](https://github.com/Pagiestm/Portfolio-Theotime-Pagies)** — monorepo Turborepo, contenu dans Sanity, et un assistant qui répond aux visiteurs à partir de mes réalisations : API Hono, bascule automatique entre modèles quand un quota tombe.
 - **[ai-tech-watcher](https://github.com/Pagiestm/ai-tech-watcher)** — ma veille tech automatisée : flux RSS résumés par un LLM local, livrés sur Telegram.
 - **[terraform-docker-modular-lab](https://github.com/Pagiestm/terraform-docker-modular-lab)** — infrastructure as code : modules Terraform réutilisables, conteneurs et pipelines.
