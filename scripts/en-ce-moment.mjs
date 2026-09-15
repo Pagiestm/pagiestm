@@ -23,25 +23,36 @@ const REQUETE = `{
   },
   "actuel": *[_type == "aboutPage"][0].facts[label.fr match "Actuellement*"][0].value.fr,
   "projets": *[_type == "project" && defined(slug.current)] | order(endDate desc)[0...${NB_PROJETS}] {
-    title, "slug": slug.current, "resume": summary.fr
+    title, "slug": slug.current, "resume": summary.fr, "stack": stack[]->label
   }
 }`;
 
-/** Longueur au-delà de laquelle une puce cesse d'être lisible en liste. */
-const MAX = 120;
+/**
+ * Longueur visée. Assez large pour garder ce qui suit le deux-points des
+ * résumés : c'est là que se trouve le concret, les fonctionnalités et non
+ * l'intitulé.
+ */
+const MAX = 240;
 
 /**
- * Les résumés de Sanity sont rédigés pour une fiche de projet : ils énumèrent
- * volontiers sept fonctionnalités d'affilée. On garde l'amorce — jusqu'au
- * premier deux-points ou point — puis on coupe sur un mot entier.
+ * On s'arrête à la dernière phrase entière qui tient dans le budget. Couper au
+ * mot laisserait des « agents IA qui assistent les… » : plus long ne veut pas
+ * dire plus clair, une phrase interrompue perd ce qu'elle allait dire.
  */
 const accroche = (texte) => {
-  let t = (texte ?? '').trim().replace(/\s+/g, ' ');
-  const coupe = t.search(/\s:\s|\.\s|\.$/);
-  if (coupe !== -1 && coupe <= MAX) t = t.slice(0, coupe);
-  if (t.length > MAX) t = `${t.slice(0, t.lastIndexOf(' ', MAX))}…`;
-  return t.replace(/[.,;:]$/, '');
+  const t = (texte ?? '').trim().replace(/\s+/g, ' ');
+  if (t.length <= MAX) return t;
+  const point = t.slice(0, MAX + 1).lastIndexOf('. ');
+  // Sous un tiers du budget, la phrase retenue serait trop maigre : on coupe
+  // alors au mot, en assumant les points de suspension.
+  if (point > MAX / 3) return t.slice(0, point + 1);
+  const mot = t.lastIndexOf(' ', MAX);
+  return `${t.slice(0, mot > 0 ? mot : MAX).replace(/[.;,]$/, '')}…`;
 };
+
+/** La stack en fin de ligne : sur GitHub, elle en dit plus qu'une phrase. */
+const technos = (liste) =>
+  (liste ?? []).length ? `  ${liste.slice(0, 6).map((t) => `\`${t}\``).join(' ')}` : '';
 
 const url =
   `https://${PROJET}.apicdn.sanity.io/v2024-10-01/data/query/${DATASET}` +
@@ -60,7 +71,9 @@ if (poste) {
 for (const p of result.projets ?? []) {
   // Le lien pointe vers le portfolio, jamais vers GitHub : un dépôt passé en
   // privé laisserait un lien mort, ce qui est déjà arrivé.
-  lignes.push(`- **[${p.title}](${SITE}/realisations/${p.slug})** — ${accroche(p.resume)}`);
+  lignes.push(
+    `- **[${p.title}](${SITE}/realisations/${p.slug})** — ${accroche(p.resume)}${technos(p.stack)}`
+  );
 }
 
 const readme = readFileSync('README.md', 'utf8');
