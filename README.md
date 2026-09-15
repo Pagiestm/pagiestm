@@ -21,10 +21,14 @@ Mes réalisations en détail, avec le contexte et les décisions techniques : **
 
 ## En ce moment
 
-- **Ponera** — outils internes de la logistique : applications web, intégrations d'API, et automatisation des tâches répétitives.
-- **[Mon portfolio](https://github.com/Pagiestm/Portfolio-Theotime-Pagies)** — monorepo Turborepo, contenu dans Sanity, et un assistant qui répond aux visiteurs à partir de mes réalisations : API Hono, bascule automatique entre modèles quand un quota tombe.
-- **[ai-tech-watcher](https://github.com/Pagiestm/ai-tech-watcher)** — ma veille tech automatisée : flux RSS résumés par un LLM local, livrés sur Telegram.
-- **[terraform-docker-modular-lab](https://github.com/Pagiestm/terraform-docker-modular-lab)** — infrastructure as code : modules Terraform réutilisables, conteneurs et pipelines.
+<!--START_SECTION:now-->
+
+- **CDI chez Ponera** — outils internes de la logistique
+- **[Loisirs Location](https://portfolio-theotime-pagies.vercel.app/realisations/loisirs-location)** — Site de location de vans aménagés pour une entreprise du secteur
+- **[AI Tech Watcher](https://portfolio-theotime-pagies.vercel.app/realisations/ai-tech-watcher)** — Bot Telegram de veille technologique
+- **[SolidHive](https://portfolio-theotime-pagies.vercel.app/realisations/solidhive)** — Plateforme de recensement et de financement des associations engagées
+
+<!--END_SECTION:now-->
 
 Ce sur quoi j'ai codé ces 7 derniers jours :
 

@@ -7,7 +7,7 @@
 # Prérequis : un compte WakaTime + son plugin installé dans ton éditeur,
 # et la clé d'API ajoutée en secret du dépôt sous le nom WAKATIME_API_KEY.
 
-name: Mettre à jour la section "En ce moment"
+name: Statistiques WakaTime
 
 on:
   schedule:
