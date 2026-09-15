@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:010001,100:5C7FAE&text=Th%C3%A9otime%20Pagies&fontSize=48&fontColor=FEFEFF&fontAlignY=34&desc=D%C3%A9veloppeur%20web%20full-stack%20%C2%B7%20Valenciennes%2C%20France&descAlignY=54&descSize=18&animation=fadeIn" width="100%" alt="Théotime Pagies — Développeur web full-stack" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:010001,100:5C7FAE&text=Th%C3%A9otime%20Pagies&fontSize=48&fontColor=FEFEFF&fontAlignY=34&desc=D%C3%A9veloppeur%20full-stack%20%C2%B7%20IA%20%26%20automatisation%20%C2%B7%20Valenciennes&descAlignY=54&descSize=18&animation=fadeIn" width="100%" alt="Théotime Pagies — Développeur full-stack, IA et automatisation" />
 
 <p align="center">
   <a href="https://portfolio-theotime-pagies.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-5C7FAE?style=for-the-badge&logo=vercel&logoColor=fff" alt="Portfolio" /></a>
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Bas%C3%A9%20%C3%A0-Valenciennes%2C%20France-C3CEDE?style=flat-square&labelColor=0C1119" alt="Basé à Valenciennes" />
 </p>
 
-Développeur web full-stack à Lille. En alternance chez **[Ailoop](https://www.ailoop.io/)**, où je construis des outils d'analyse de cycle de vie et de déclaration environnementale — ACV, FDES, EPD, DPP — du cadrage à la mise en production. En parallèle, MBA Développeur Full Stack (niveau 7) à MyDigitalSchool Lille.
+Développeur full-stack, orienté IA et automatisation, à Valenciennes. En alternance chez **[Ailoop](https://www.ailoop.io/)**, où je construis des outils d'analyse de cycle de vie et de déclaration environnementale — ACV, FDES, EPD, DPP — du cadrage à la mise en production. En parallèle, MBA Développeur Full Stack (niveau 7) à MyDigitalSchool Lille.
 
 Mes réalisations en détail, avec le contexte et les décisions techniques : **[portfolio-theotime-pagies.vercel.app](https://portfolio-theotime-pagies.vercel.app/)**
 
@@ -20,9 +20,9 @@ Mes réalisations en détail, avec le contexte et les décisions techniques : **
 ## En ce moment
 
 - **Ailoop** — développement front et back des outils métier, avec les personnes qui s'en servent tous les jours.
-- **[SecureDrop](https://github.com/Pagiestm/SecureDrop)** — partage de fichiers avec liens qui expirent et journal d'audit : règles de sécurité Firebase et Cloud Functions.
+- **[Mon portfolio](https://github.com/Pagiestm/Portfolio-Theotime-Pagies)** — monorepo Turborepo, contenu dans Sanity, et un assistant qui répond aux visiteurs à partir de mes réalisations : API Hono, bascule automatique entre modèles quand un quota tombe.
 - **[ai-tech-watcher](https://github.com/Pagiestm/ai-tech-watcher)** — ma veille tech automatisée : flux RSS résumés par un LLM local, livrés sur Telegram.
-- **Montée en compétence** sur l'infra : Docker et pipelines GitHub Actions.
+- **[terraform-docker-modular-lab](https://github.com/Pagiestm/terraform-docker-modular-lab)** — infrastructure as code : modules Terraform réutilisables, conteneurs et pipelines.
 
 Ce sur quoi j'ai codé ces 7 derniers jours :
 
@@ -46,11 +46,11 @@ Bash         12 mins               █░░░░░░░░░░░░░░
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,tailwind,nest,nodejs,express,symfony,php,postgres,mysql,flutter,vitest,docker,githubactions,git,vite,postman,vercel&perline=11&theme=dark" width="92%" alt="React, Vue.js, TypeScript, JavaScript, Tailwind CSS, NestJS, Node.js, Express, Symfony, PHP, PostgreSQL, MySQL, Flutter, Vitest, Docker, GitHub Actions, Git, Vite, Postman, Vercel" />
+  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,tailwind,nest,nodejs,express,symfony,php,postgres,mysql,flutter,vitest,docker,terraform,aws,githubactions,git,vite,vercel&perline=11&theme=dark" width="92%" alt="React, Vue.js, TypeScript, JavaScript, Tailwind CSS, NestJS, Node.js, Express, Symfony, PHP, PostgreSQL, MySQL, Flutter, Vitest, Docker, Terraform, AWS, GitHub Actions, Git, Vite, Vercel" />
 </p>
 
 <p align="center">
-  <sub><b>Front</b> React &middot; Vue &middot; TypeScript &middot; Tailwind &nbsp;&nbsp;|&nbsp;&nbsp; <b>Back</b> NestJS &middot; Node &middot; Express &middot; Symfony &nbsp;&nbsp;|&nbsp;&nbsp; <b>Données</b> PostgreSQL &middot; MySQL &nbsp;&nbsp;|&nbsp;&nbsp; <b>Livraison</b> Vitest &middot; Docker &middot; GitHub Actions</sub>
+  <sub><b>Front</b> React &middot; Vue &middot; TypeScript &middot; Tailwind &nbsp;&nbsp;|&nbsp;&nbsp; <b>Back</b> NestJS &middot; Node &middot; Express &middot; Symfony &nbsp;&nbsp;|&nbsp;&nbsp; <b>Données</b> PostgreSQL &middot; MySQL &nbsp;&nbsp;|&nbsp;&nbsp; <b>Livraison</b> Vitest &middot; Docker &middot; Terraform &middot; GitHub Actions</sub>
 </p>
 
 ---
