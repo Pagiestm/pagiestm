@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Bas%C3%A9%20%C3%A0-Valenciennes%2C%20France-C3CEDE?style=flat-square&labelColor=0C1119" alt="Basé à Valenciennes" />
 </p>
 
-Développeur full-stack à Valenciennes, orienté IA et automatisation. Depuis août 2026 en CDI chez **Ponera**, où je construis les outils internes de la logistique : applications web du back au front, intégrations d'API et de systèmes internes, automatisation de ce qui n'a pas besoin d'une personne.
+Développeur full-stack à Valenciennes, orienté IA et automatisation. Depuis août 2026 en CDI chez **[Ponera](https://www.ponera.fr/)**, où je construis les outils internes de la logistique : applications web du back au front, intégrations d'API et de systèmes internes, automatisation de ce qui n'a pas besoin d'une personne.
 
 Avant cela, deux ans d'alternance chez **[Ailoop](https://www.ailoop.io/)** : six configurateurs FDES livrés à des industriels, conformes RE2020, et un socle technique commun en Vue.js, NestJS et Docker. MBA Manager de projet web digital (RNCP niveau 7) obtenu en 2026 à MyDigitalSchool Lille.
 
