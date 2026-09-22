@@ -15,7 +15,7 @@ Développeur full-stack à Valenciennes, orienté IA et automatisation. Depuis a
 
 Avant cela, deux ans d'alternance chez **[Ailoop](https://www.ailoop.io/)** : six configurateurs FDES livrés à des industriels, conformes RE2020, et un socle technique commun en Vue.js, NestJS et Docker. MBA Manager de projet web digital (RNCP niveau 7) obtenu en 2026 à MyDigitalSchool Lille.
 
-Mes réalisations en détail, avec le contexte et les décisions techniques : **[portfolio-theotime-pagies.vercel.app](https://portfolio-theotime-pagies.vercel.app/)**
+Mes réalisations en détail, avec le contexte et les décisions techniques : **[theotimepagies.com](https://www.theotimepagies.com/)**
 
 ---
 
