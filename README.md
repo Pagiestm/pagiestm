@@ -23,7 +23,7 @@ Mes réalisations en détail, avec le contexte et les décisions techniques : **
 
 <!--START_SECTION:now-->
 
-- **CDI chez Ponera** — outils internes de la logistique : applications web PHP du back-end au front-end, intégrations d'API et de systèmes internes, automatisation des tâches répétitives, agents IA qui assistent les équipes.
+- **CDI chez Ponera** — outils internes sur mesure pour les différentes équipes, dont la logistique et la marketplace. Applications web en PHP et Vue.js, intégrations d'API et de systèmes existants.
 - **[Loisirs Location](https://portfolio-theotime-pagies.vercel.app/realisations/loisirs-location)** — Site de location de vans aménagés pour une entreprise du secteur : catalogue, galeries, demandes de devis à formulaire configurable, blog, newsletter, avis Google, back-office avec pages éditables.  `Symfony` `PostgreSQL` `Tailwind CSS` `Docker` `CI/CD`
 - **[AI Tech Watcher](https://portfolio-theotime-pagies.vercel.app/realisations/ai-tech-watcher)** — Bot Telegram de veille technologique : il lit des flux RSS, résume chaque article avec un modèle de langage local via Ollama, et envoie un digest quotidien et hebdomadaire.  `TypeScript` `Node.js` `Ollama` `Telegram`
 - **[SolidHive](https://portfolio-theotime-pagies.vercel.app/realisations/solidhive)** — Plateforme de recensement et de financement des associations engagées : annuaire, cagnottes et dons, événements payants avec billets, CRM par association, back-office, abonnement premium.  `NestJS` `TypeScript` `PostgreSQL` `Redis` `Vue.js` `Tailwind CSS`
