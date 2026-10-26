@@ -35,14 +35,14 @@ Ce sur quoi j'ai codé ces 7 derniers jours :
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 17 hrs 34 mins
+Total Time: 17 hrs 3 mins
 
-Markdown     3 hrs 44 mins         █████░░░░░░░░░░░░░░░░░░░░   20.33 %
-PHP          3 hrs 35 mins         █████░░░░░░░░░░░░░░░░░░░░   19.56 %
-Bash         2 hrs 54 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
-JavaScript   2 hrs 34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
-TypeScript   1 hr 45 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
-SQL          55 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+TypeScript    3 hrs 51 mins         █████░░░░░░░░░░░░░░░░░░░░   19.67 %
+Markdown      2 hrs 47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+Other         2 hrs 33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
+PHP           2 hrs 28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
+Bash          1 hr 45 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+SQL           1 hr 33 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
 ```
 
 <!--END_SECTION:waka-->
